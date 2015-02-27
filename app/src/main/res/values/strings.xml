@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MultipleUserInput</string>
+    <!--<string name="user_name">Name: </string>-->
+    <string name="user_address">Address: </string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="duration_arrays">
+        <item>Daily</item>
+        <item>Monthly</item>
+    </string-array>
+
+    <string-array name="type_arrays">
+        <item>Black Board</item>
+        <item>Red Board</item>
+        <item>Vajra</item>
+    </string-array>
+
+</resources>
